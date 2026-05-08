@@ -1,0 +1,10 @@
+{
+  "name": "dockerized-web-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "5.9.0"
+  }
+}
